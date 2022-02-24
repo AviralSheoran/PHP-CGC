@@ -9,11 +9,10 @@
 </head>
 
 <body>
-    <h1>Hello World!</h1>
 
     <?php
     
-    echo "Kaise he re.. "
+    echo "PHP is awesome"
     
     ?>
 
